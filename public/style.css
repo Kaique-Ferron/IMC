@@ -1,3 +1,38 @@
-#h1{
-    background-color: rgb(2, 238, 159);
+.h11{
+    background-color: rgb(0, 0, 0);
+    color:khaki;
+    width: 300px;
+    justify-content:center;
+    display: flex;
+    align-items:center
+}
+.container{
+    align-items: center;
+    display:grid;
+    justify-content: center;
+    height: 20px;
+}
+.bt1{
+    width: 100px;
+
+}
+.bt2{
+    position: relative;
+    left: 90px ;
+    margin: 10px;
+}
+#peso{
+    position: relative;
+
+    right: 30px;
+}
+h2{
+    margin: 20px;
+    justify-content: center;
+    position: relative;
+
+    left:60px  ;
+}
+body{
+    background-color: khaki;
 }
